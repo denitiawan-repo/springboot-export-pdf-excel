@@ -18,6 +18,11 @@ you can see on this article [https://deni-setiawan.medium.com](https://deni-seti
 - openpdf
 - Spring Data JPA
 
+### APis
+| Method | URL APIs                                 | Description              | Browser  |
+|--------|------------------------------------------|--------------------------|----------|
+| GET    | localhost:8181/v1/report/user/pdf/all    | Download user list PDF   | CHROME   |
+| GET    | localhost:8181/v1/report/user/excel/all  | Download user list Excel | CHROME   |
 
 
 
