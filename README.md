@@ -4,7 +4,7 @@
 On this repo we will learn how to export data to excel and pdf on Springboot Project.
 
 If you want read the full articles all about this repo,
-you can see on this article [https://deni-setiawan.medium.com](https://deni-setiawan.medium.com/create-api-documentation-using-swagger-on-springboot-27509cc0b1a9)
+you can see on this article [https://medium.com/@deni-setiawan/create-rest-api-for-export-data-to-excel-and-pdf-using-springboot-38a2ee6c73a0](https://medium.com/@deni-setiawan/create-rest-api-for-export-data-to-excel-and-pdf-using-springboot-38a2ee6c73a0)
 
 ### Requirements
 - Maven 3+
